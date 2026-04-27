@@ -245,7 +245,10 @@ By completing this course, I aim to:
 ## 👤 Author
 
 **A.S.M. Morshed**
-Software Engineering Student
+Software Engineering
+Institute of Information Technology (IIT)
+Noakhali Science and Technology University
+
 OOP • Java • Software Design
 
 ---

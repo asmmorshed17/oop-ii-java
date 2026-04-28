@@ -159,7 +159,7 @@ This project collection is designed to:
 
 ---
 
-# 👨‍💻 Author
+# 🎓 Author
 
 **A.S.M. Morshed**
 

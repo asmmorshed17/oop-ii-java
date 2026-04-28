@@ -159,13 +159,12 @@ This project collection is designed to:
 
 ---
 
-# 🎓 Author
 
-**A.S.M. Morshed**
+### 🎓 Author
 
-Software Engineering Student
+A.S.M. Morshed  
+Software Engineering<br>
+Institute of Information Technology (IIT)<br>
+Noakhali Science and Technology University  
 
-Institute of Information Technology (IIT)
-
-Noakhali Science and Technology University
-
+OOP • Java • Software Design
